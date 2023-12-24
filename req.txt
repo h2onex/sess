@@ -1,0 +1,5 @@
+slack_sdk
+#json
+yml
+flask
+matplotlib
